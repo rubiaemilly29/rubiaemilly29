@@ -23,7 +23,8 @@
  ##
  
 Contatos
-  - rubiaemilly29@gmial.com
+ 
+  - rubiaemilly29@gmail.com
   - (35) 998294208
  
  ##
