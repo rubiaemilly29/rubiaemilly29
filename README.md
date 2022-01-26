@@ -5,7 +5,7 @@
 🌱 Estou estudando:
  - [x] Fundamentos Do Desenvolvimento Web;
  - [x] FrontEnd;
- - [ ] BackEnd;
+ - [x] BackEnd;
  - [ ] Ciencia Da Computação.
  ##
  <div>
@@ -24,7 +24,7 @@
   
   <div> 
   <a href="https://rubiaemilly29.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rubiaemilly29@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "rubiaemilly29@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rubiaemily/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
