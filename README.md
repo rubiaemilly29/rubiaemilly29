@@ -1,13 +1,14 @@
 ### Olá Todo Mundo, 👋 Eu Sou Rubia Emily.
 
-💚 Atualmente sou estudante de Desenvolvimento Web na Trybe;
-
-🌱 Estou estudando:
+💚 Completei os estudos em Desenvolvimento Web na Trybe;
  - [x] Fundamentos Do Desenvolvimento Web;
  - [x] FrontEnd;
  - [x] BackEnd;
- - [ ] Ciencia Da Computação.
+ - [x] Ciencia Da Computação.
+ 
+ 💚 Estou Estudando Analise e Desenvolvimento de Sistemas
  ##
+ 
  <div>
  <a href="https://github.com/rubiaemilly29">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rubiaemilly29&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
@@ -21,16 +22,14 @@
  </div>
  
  ##
- 
-Contatos
- 
-  - rubiaemilly29@gmail.com
+  💚 Contatos
   - (35) 998294208
+  - rubiaemilly29@gmail.com
  
  ##
   
   <div> 
-  <a href="https://rubiaemilly29.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logoColor=white" target="_blank"></a>
+<!--   <a href="https://rubiaemilly29.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/rubiaemily/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
