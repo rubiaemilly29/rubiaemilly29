@@ -1,12 +1,8 @@
 ### Olá Todo Mundo, 👋 Eu Sou Rubia Emily.
 
-💚 Completei os estudos em Desenvolvimento Web na Trybe;
- - [x] Fundamentos Do Desenvolvimento Web;
- - [x] FrontEnd;
- - [x] BackEnd;
- - [x] Ciencia Da Computação.
+💚 Sou Desenvolvedora Web backEnd
  
- 💚 Estou Estudando Analise e Desenvolvimento de Sistemas
+💚 Formada em Analise e Desenvolvimento de Sistemas
  ##
  
  <div>
